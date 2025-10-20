@@ -6,3 +6,4 @@ scikit-learn
 ipython
 jupyter
 streamlit
+xgboost
